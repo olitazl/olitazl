@@ -16,6 +16,7 @@ Pronouns: he/him/his
 ## Expertise
 <img align="left" alt="java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/Kotlin%20-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
